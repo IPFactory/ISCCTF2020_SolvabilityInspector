@@ -1,0 +1,4 @@
+python-dotenv~=0.14.0
+schedule~=0.6.0
+pwn~=1.0
+requests~=2.24.0
